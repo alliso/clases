@@ -1,0 +1,1 @@
+Copiar el ddbb en C:\Usuarios\nombreDeUsuario
